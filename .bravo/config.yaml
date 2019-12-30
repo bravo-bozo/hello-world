@@ -3,3 +3,5 @@ pipeline:
     "Test":
       steps:
         - echo 'hello'
+        - echo 'bro'
+        - echo 'mamamia'
